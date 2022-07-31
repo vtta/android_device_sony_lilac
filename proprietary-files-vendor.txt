@@ -847,6 +847,17 @@ vendor/etc/libnfc-nci.conf
 vendor/etc/libnfc-nxp-octopus.conf
 vendor/etc/libnfc-nxp.conf
 vendor/lib/libpn553_fw.so
+vendor/bin/hw/android.hardware.nfc@1.1-service.cxd22xx
+vendor/bin/snfcboot
+vendor/etc/init/android.hardware.nfc@1.1-service.cxd22xx.rc
+vendor/etc/libnfc-cxd-224x02010010.conf
+vendor/etc/libnfc-cxd-224x02310011.conf
+gendor/etc/libnfc-cxd22xx.conf
+vendor/etc/nfc_settings.conf
+vendor/etc/permissions/android.hardware.nfc.hce.xml
+vendor/etc/permissions/android.hardware.nfc.xml
+#vendor/lib/modules/sony_carillon_nfc.ko
+
 
 # PERIPHERAL_MANAGER - from jasmine - QKQ1.190910.002
 vendor/bin/pm-proxy|bc4e972e3fe595b973197efe5114da8ff4339a59
